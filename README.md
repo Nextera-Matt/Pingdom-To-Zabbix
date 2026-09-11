@@ -6,7 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/NexteraMatt/Pingdom-To-Zabbix/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Nextera-Matt/Pingdom-To-Zabbix/graphs/commit-activity)
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-how-it-works)
 
@@ -91,7 +91,7 @@ Engineers can now see Pingdom uptime data alongside internal metrics in a single
 
 **1️⃣ Clone the repository**
 ```bash
-git clone https://github.com/NexteraMatt/Pingdom-To-Zabbix.git
+git clone https://github.com/Nextera-Matt/Pingdom-To-Zabbix.git
 cd Pingdom-To-Zabbix
 ```
 
@@ -227,9 +227,9 @@ Built to solve real operational challenges in managing distributed monitoring in
 
 **Need help or found a bug?**
 
-[![GitHub Issues](https://img.shields.io/github/issues/NexteraMatt/Pingdom-To-Zabbix)](https://github.com/NexteraMatt/Pingdom-To-Zabbix/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/Nextera-Matt/Pingdom-To-Zabbix)](https://github.com/Nextera-Matt/Pingdom-To-Zabbix/issues)
 
-[Open an Issue](https://github.com/NexteraMatt/Pingdom-To-Zabbix/issues) • [Visit Portfolio](https://matthodges.uk)
+[Open an Issue](https://github.com/Nextera-Matt/Pingdom-To-Zabbix/issues) • [Visit Portfolio](https://matthodges.uk)
 
 </div>
 
@@ -242,3 +242,4 @@ Built to solve real operational challenges in managing distributed monitoring in
 ⭐ Star this repo if you find it useful!
 
 </div>
+
